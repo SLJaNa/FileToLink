@@ -15,7 +15,7 @@ class Config:
 
     Link_Root = f"https://{App_Name}.herokuapp.com/"
     Download_Folder = "Files"
-    Bot_Channel = int(os.environ.get("ARCHIVE_CHANNEL_ID"))
+    Bot_Channel = "SL_Jana_Team"
     Bot_UserName = None  # The bot will set it after starting
     Part_size = 10 * 1024 * 1024  # (10MB) For Pyrogram
     Buffer_Size = 256 * 1024  # For Quart
