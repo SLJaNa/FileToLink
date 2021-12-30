@@ -10,7 +10,7 @@
         "bot",
         "link"
     ],
-    "repository": "https://github.com/Sallat-M/FileToLink",
+    "repository": "https://github.com/SLJaNa/FileToLink",
     "env": {
         "API_ID": {
             "description": "Get it from  https://my.telegram.org"
