@@ -29,7 +29,7 @@
         },
         "Start_Message": {
             "description": "The bot will send this message when user send /start",
-            "value": "Hello, Send me any file to get download and Stream links"
+            "value": "𝐻𝑒𝓁𝓁𝑜, 𝒮𝑒𝓃𝒹 𝓂𝑒 𝒶𝓃𝓎 𝒻𝒾𝓁𝑒 𝓉𝑜 𝑔𝑒𝓉 𝒹𝑜𝓌𝓃𝓁𝑜𝒶𝒹 𝒶𝓃𝒹 𝒮𝓉𝓇𝑒𝒶𝓂 𝓁𝒾𝓃𝓀𝓈"
         },
         "Session_String": {
             "description": "[Optional] Pyrogram Session String, use session_generator.py to generate it, If you don't add it the bot will create a new session every Restarting.",
